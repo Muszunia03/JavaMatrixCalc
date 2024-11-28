@@ -1,0 +1,62 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/machm/OneDrive - Politechnika Śląska/Documents/sem5/java in mobile/lab 4/Mach.Mikolaj.ex4.prototype/MatrixCalculator1 (1)/MatrixCalculator1/MatrixCalculator1/target/classes;C:/Users/machm/OneDrive - Politechnika Śląska/Documents/sem5/java in mobile/lab 4/Mach.Mikolaj.ex4.prototype/MatrixCalculator1 (1)/MatrixCalculator1/MatrixCalculator1/target/test-classes;C:/Users/machm/.m2/repository/org/projectlombok/lombok/1.18.34/lombok-1.18.34.jar;C:/Users/machm/.m2/repository/org/junit/jupiter/junit-jupiter/5.10.0/junit-jupiter-5.10.0.jar;C:/Users/machm/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar;C:/Users/machm/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar;C:/Users/machm/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/machm/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar;C:/Users/machm/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.6.0/junit-jupiter-params-5.6.0.jar;C:/Users/machm/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.0/junit-jupiter-engine-5.6.0.jar;C:/Users/machm/.m2/repository/org/junit/platform/junit-platform-engine/1.6.0/junit-platform-engine-1.6.0.jar'
+-encoding
+'UTF-8'
+-private
+-source
+'21'
+-sourcepath
+'C:/Users/machm/OneDrive - Politechnika Śląska/Documents/sem5/java in mobile/lab 4/Mach.Mikolaj.ex4.prototype/MatrixCalculator1 (1)/MatrixCalculator1/MatrixCalculator1/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/machm/OneDrive - Politechnika Śląska/Documents/sem5/java in mobile/lab 4/Mach.Mikolaj.ex4.prototype/MatrixCalculator1 (1)/MatrixCalculator1/MatrixCalculator1/target/reports/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MatrixCalculator1 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-use
+-version
+-windowtitle
+'MatrixCalculator1 1.0-SNAPSHOT Test API'
+pl.polsl.model
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\classes = 1732730162973
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\test-classes = 1732730164159
+C:\Users\machm\.m2\repository\org\projectlombok\lombok\1.18.34\lombok-1.18.34.jar = 1731334443724
+C:\Users\machm\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar = 1732482166753
+C:\Users\machm\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar = 1732482166933
+C:\Users\machm\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar = 1732482166865
+C:\Users\machm\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar = 1732482166794
+C:\Users\machm\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar = 1732482166939
+C:\Users\machm\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar = 1732482166994
+C:\Users\machm\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar = 1732482166912
+C:\Users\machm\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar = 1732482167000
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\src\test\java = 1732472902135
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\allclasses-index.html = 1732730178420
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\allpackages-index.html = 1732730178423
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\copy.svg = 1732730178455
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\element-list = 1732730178377
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\help-doc.html = 1732730178449
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\index-all.html = 1732730178439
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\index.html = 1732730178445
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\link.svg = 1732730178456
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\member-search-index.js = 1732730178427
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\module-search-index.js = 1732730178424
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\overview-tree.html = 1732730178410
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\package-search-index.js = 1732730178425
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\script.js = 1732730178454
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\search-page.js = 1732730178461
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\search.html = 1732730178442
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\search.js = 1732730178459
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\stylesheet.css = 1732730178451
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\tag-search-index.js = 1732730178428
+C:\Users\machm\OneDrive - Politechnika Śląska\Documents\sem5\java in mobile\lab 4\Mach.Mikolaj.ex4.prototype\MatrixCalculator1 (1)\MatrixCalculator1\MatrixCalculator1\target\reports\testapidocs\type-search-index.js = 1732730178426
